@@ -93,15 +93,7 @@ python utils.py --checkpoint outputs/best_checkpoint.pt --env hopper-medium-v2
 
 ## 📊 Results
 
-### Performance on D4RL Benchmarks
-
-| Environment | Dataset | D4RL Score | Avg Reward |
-|-------------|---------|------------|------------|
-| Hopper | Medium | 0.8/100 | 4.42 |
-| Walker2d | Medium | TBD | TBD |
-| HalfCheetah | Medium | TBD | TBD |
-
-*Results are continuously updated as training progresses*
+*Results will be updated as training progresses. Performance metrics and D4RL scores will be added once we achieve competitive results.*
 
 ## 🛠️ Project Structure
 
